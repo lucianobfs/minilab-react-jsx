@@ -17,12 +17,12 @@ function App() {
       <small>Interpolação de variáveis</small>
       <Greeting/>
       <small>Imagens</small>
-      <Profile/>
       <hr />
+      <Profile/>
 
       <small>Renderização de listas</small>
-      <ToDoList/>
       <hr />
+      <ToDoList/>
 
       <small>Renderização condicional</small>
       <hr />
